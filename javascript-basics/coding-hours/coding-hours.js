@@ -8,3 +8,9 @@
 //
 // Print the percentage of the coding hours in the semester if the average
 // work hours weekly is 52
+
+let i = 17
+let u = 5 
+let d = 6
+
+console.log(i * u * d + " Hours")
